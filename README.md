@@ -1,1 +1,1 @@
-# 2b2t-tel
+# 2b2t.tel
